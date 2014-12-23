@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3",
+        "doctrine/common": "2.4.*"
     },
     "autoload": {
         "psr-0": { "Zebba\\Bundle\\FormBundle\\": "" }
